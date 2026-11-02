@@ -1,0 +1,18 @@
+# Segredos
+.env
+*.env
+!.env.example
+
+# Ambiente Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dados locais do ADK
+.adk/
+*.db
+
+# Sistema
+desktop.ini
+.DS_Store
